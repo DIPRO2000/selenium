@@ -1,18 +1,50 @@
-# My Submission 
+# ⚡ Group 33 — Advanced Selenium Automation
+### Python Browser Automation & Element Locating Suite
 
-**Name:** Diprajit Chakraborty 
+🎯 Web Automation • 🛠️ Element Locating • 🐍 Python 3
 
-**Enrollment Number:** 12023002001105
+A modular Selenium testing suite developed collaboratively by Group 33 to demonstrate robust element targeting strategies.
 
-## Description Briefly 
+---
 
-In this Assignment I have explained the Assignment 2 and 3.
+## 👥 Engineering Team
 
-**Assignment 2 Question:** Multiple Element Identification -> Identify multiple elements of the same type on a webpage and use Selenium to find and work with the list of elements.Example: Find all links on a webpage and print their text
+| 👤 Team Member Name | 🎓 Enrollment Number |
+| :--- | :--- |
+| Dibyojyoti Datta | 12023002001100 |
+| Diprajit Chakraborty | 12023002001105 |
+| Dibyajyoti Singha | 12023002001099 |
 
-**Assignment 3 Question:** CSS Selector Challenge -> Locate web elements using CSS Selectors, including selectors with wildcards for elements having varying or dynamic attribute values.Example: Use a CSS wildcard selector to locate elements whose ID starts with user.
 
-## Demo 
-The Video of my explanation is uploaded in the Google Drive.
+## 🎥 Video Demonstrations
 
-The Link of the Google Drive is: https://drive.google.com/file/d/1_s9kA70uqzA4VghrCfoU-ZtlKKzUonnJ/view?usp=sharing 
+### 🎬 Video 1: Element Identification Setup
+* **Feature:** Assignment 1 Execution
+* **Presenter:** Dibyojyoti Datta
+* ▶️ [Watch Assignment 1 Walkthrough](YOUR_VIDEO_1_LINK_HERE)
+
+### 🎬 Video 2: Collection Collection & Wildcards
+* **Feature:** Assignment 2 & 3 Executions
+* **Presenter:** Diprajit Chakraborty
+* ▶️ [Watch Assignment 2 & 3 Walkthrough](https://drive.google.com/file/d/1_s9kA70uqzA4VghrCfoU-ZtlKKzUonnJ/view?usp=sharing)
+
+### 🎬 Video 3: Hierarchical Node Navigation
+* **Feature:** Assignment 4 Execution
+* **Presenter:** Dibyajyoti Singha
+* ▶️ [Watch Assignment 4 Walkthrough](https://drive.google.com/file/d/1-RCspGULp5hD1EVjCvNM0MiOKWPXKpk0/view?usp=sharing)
+
+---
+
+## 📂 Repository Structure
+```text
+Assignment_1.3/
+└── Diprajit_Chakraborty_12023002001105_Dibyojyoti_Datta_12023002001100_Dibyajyoti_Singha_12023002001099/
+    ├── 📄 Assignment1.py   
+    ├── 📄 Assignment2.py   
+    ├── 📄 Assignment3.py   
+    ├── 📄 Assignment4.py   
+    └── 📄 README.md        # Documentation
+```
+
+<p align="center">Optimized for Python WebDriver • Chrome Automation Environment</p>
+<p align="center">🛡️ Secure, Scalable, and Modular Testing — Group 33 🛡️</p>
