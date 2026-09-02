@@ -21,7 +21,7 @@ A modular Selenium testing suite developed collaboratively by Group 33 to demons
 ### 🎬 Video 1: Element Identification Setup
 * **Feature:** Assignment 1 Execution
 * **Presenter:** Dibyojyoti Datta
-* ▶️ [Watch Assignment 1 Walkthrough](https://drive.google.com/file/d/1AyFytgaRUaJ90rgMYWoJ4sAYmk9mSQB-/view?usp=sharing)
+* ▶️ [Watch Assignment 1 Walkthrough](https://drive.google.com/file/d/1LqmfeTfI1Vu3s7b2oeGH60vXLHp8QDFJ/view?usp=sharing)
 
 ### 🎬 Video 2: Collection Collection & Wildcards
 * **Feature:** Assignment 2 & 3 Executions
@@ -31,7 +31,7 @@ A modular Selenium testing suite developed collaboratively by Group 33 to demons
 ### 🎬 Video 3: Hierarchical Node Navigation
 * **Feature:** Assignment 4 Execution
 * **Presenter:** Dibyajyoti Singha
-* ▶️ [Watch Assignment 4 Walkthrough](https://drive.google.com/file/d/1-RCspGULp5hD1EVjCvNM0MiOKWPXKpk0/view?usp=sharing)
+* ▶️ [Watch Assignment 4 Walkthrough](https://drive.google.com/file/d/1vJLSzvJ_s7CbE105pkuQkMBQfEXR0HP0/view?usp=sharing)
 
 ---
 
