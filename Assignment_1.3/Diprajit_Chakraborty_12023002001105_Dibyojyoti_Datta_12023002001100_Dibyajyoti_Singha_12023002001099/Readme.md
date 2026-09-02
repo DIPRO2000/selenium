@@ -1,7 +1,7 @@
-# ⚡ Group 33 — Selenium Automation
+# Group 33 — Selenium Automation
 ### Python Browser Automation & Element Locating Suite
 
-🎯 Web Automation • 🛠️ Element Locating • 🐍 Python 3
+Web Automation • Element Locating • Python 3
 
 A modular Selenium testing suite developed collaboratively by Group 33 to demonstrate robust element targeting strategies.
 
