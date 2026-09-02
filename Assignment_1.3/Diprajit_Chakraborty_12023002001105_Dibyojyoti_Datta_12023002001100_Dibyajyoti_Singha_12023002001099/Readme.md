@@ -1,4 +1,4 @@
-# ⚡ Group 33 — Advanced Selenium Automation
+# ⚡ Group 33 — Selenium Automation
 ### Python Browser Automation & Element Locating Suite
 
 🎯 Web Automation • 🛠️ Element Locating • 🐍 Python 3
@@ -21,7 +21,7 @@ A modular Selenium testing suite developed collaboratively by Group 33 to demons
 ### 🎬 Video 1: Element Identification Setup
 * **Feature:** Assignment 1 Execution
 * **Presenter:** Dibyojyoti Datta
-* ▶️ [Watch Assignment 1 Walkthrough](YOUR_VIDEO_1_LINK_HERE)
+* ▶️ [Watch Assignment 1 Walkthrough](https://drive.google.com/file/d/1AyFytgaRUaJ90rgMYWoJ4sAYmk9mSQB-/view?usp=sharing)
 
 ### 🎬 Video 2: Collection Collection & Wildcards
 * **Feature:** Assignment 2 & 3 Executions
